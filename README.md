@@ -9,6 +9,9 @@ Among the types of Personal Data that this application collects, by itself or th
 
 Registration with us is not required. When you download and use the application, you generally provide (a) transaction-related information, such as when you make purchases or respond to any offers; (b) information you provide us when you contact us for help, and; (c) information you enter into our system when using the application such as workout information.
 
+# Does the application collect precise real time location information of the device?
+This application does not collect precise information about the location of your mobile device.
+
 # What are my opt-out rights?
 You can stop all collection of information by the application easily by uninstalling the application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
@@ -34,7 +37,6 @@ Google Firebase Analytics -
 * Session duration
 * Operating systems
 * Device models
-* Geography
 * First launches
 * App opens
 * App updates
