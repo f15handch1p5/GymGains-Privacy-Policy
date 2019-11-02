@@ -1,5 +1,5 @@
 # GymGains-Privacy-Policy
-Privacy Policy for GymGains iOS Applications developed by Luke Smith.
+Privacy Policy for GymGains iOS Application developed by Luke Smith.
 
 Privacy Policy of GymGains - Gym Workout Log
 This application collects some Personal Data from its Users.
